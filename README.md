@@ -14,7 +14,7 @@ pinned: false
 A Gradio-based MCP server that provides a user-friendly interface to interact with Spotify's API. This server offers various tools for managing your Spotify experience, from authentication to playlist management and music playback control.
 
 ## Demo Video
-[Watch the demo video](https://asset.cloudinary.com/dedgdfu0l/0f0cb2dda40de41f419c50b57e9e74c5)
+[Watch the demo video](https://player.cloudinary.com/embed/?cloud_name=dedgdfu0l&public_id=2025-06-08_15-25-48_fr74jj&profile=cld-default)
 
 ## Features
 
